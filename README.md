@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview & Resource Citations
+##  Project Overview & Resource Citations
 
 1. **Task Details & Design Standards:**  
    - Source: Data Alcott Systems Internship Portal.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Home Page:** Banner, Categories grid, Featured products.
 - **Product Listing:** Filter by Category and Vehicle type.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ GitHub Repository Upload Instructions
+##  GitHub Repository Upload Instructions
 
 1. Put `index.html`, `style.css`, `script.js`, and `README.md` in one directory.
 2. Run the following commands:
